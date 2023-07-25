@@ -1,0 +1,19 @@
+.card {
+  border: 1px solid black;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.user-info {
+  margin-bottom: 5px;
+}
+
+.card-title {
+  margin-bottom: 5px;
+}
+
+.button__delete {
+  margin-top: 10px;
+  background-color: red;
+  color: white;
+}
